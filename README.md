@@ -1,7 +1,7 @@
 # Hi, I'm Sive Hoyo
 
 💻 Aspiring Software Engineer  
-🎯 Focused on Web Development & Problem Solving  
+🎯 Focused on Backend Development & Problem Solving  
 
 ---
 
