@@ -19,4 +19,4 @@
 ---
 
 ## 📈Current Goal
-Learning Linux Fundamentals and working torwards task automations and deployments.
+Learning Linux Fundamentals and working torwards understanding task automations and deployments.
