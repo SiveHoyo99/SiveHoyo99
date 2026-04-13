@@ -1,7 +1,7 @@
 # Hi, I'm Sive Hoyo
 
-💻 Aspiring Software Engineer  
-🎯 Focused on Backend Development & Problem Solving  
+ Aspiring Software Engineer  
+ Focused on Backend Development & Problem Solving  
 
 ---
 
@@ -11,7 +11,7 @@
 
 ---
 
-## 🛠️ Skills
+##  Skills
 - HTML, CSS  
 - Python(Flask)  
 - Git & GitHub  
