@@ -3,6 +3,10 @@
 🚀 Aspiring Software Engineer  
 💡 Focused on Backend Development & Problem Solving  
 
+## 🌐 Connect with Me
+
+[![https://www.linkedin.com/in/sive-hoyo/](https://img.shields.io/badge/LinkedIn-Sive%20Hoyo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)
+
 ---
 
 ## 🛠️ Projects
