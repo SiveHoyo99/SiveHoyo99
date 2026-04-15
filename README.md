@@ -1,22 +1,36 @@
-# Hi, I'm Sive Hoyo
+# 👋 Hi, I'm Sive Hoyo
 
- Aspiring Software Engineer  
- Focused on Backend Development & Problem Solving  
-
----
-
-##  Projects
-- CampusPoint – Student career platform  
-- Kamva's Iphone Collection – Website displaying a collection of cellphones and description 
+🚀 Aspiring Software Engineer  
+💡 Focused on Backend Development & Problem Solving  
 
 ---
 
-##  Skills
-- HTML, CSS  
-- Python(Flask)  
-- Git & GitHub  
+## 🛠️ Projects
+- **CampusPoint** – Student career platform  
+- **Kamva's iPhone Collection** – Website showcasing mobile devices and descriptions  
 
 ---
 
-## 📈Current Goal
-Learning Linux Fundamentals and working torwards understanding task automations and deployments.
+## 💻 Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Sive's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+## 🔥 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🎯 Current Goal
+Learning Linux fundamentals and working towards task automation and deployment systems.
