@@ -24,7 +24,7 @@
 
 ## 📊 GitHub Stats
 
-![Sive's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![SiveHoyo99](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
 ## 🔥 Most Used Languages
 
