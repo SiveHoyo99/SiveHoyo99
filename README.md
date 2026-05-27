@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sive Hoyo
 
-🚀 Aspiring Software Engineer  
-💡 Focused on Backend Development & Problem Solving  
+🚀 Aspiring Data Engineer  
+💡 Focused on ETL Pipeline Development & Problem Solving  
 
 
 ## 🛠️ Projects
@@ -22,14 +22,11 @@
 ---
 
 ## 📊 GitHub Stats
-
 ![SiveHoyo99](https://github-readme-stats.vercel.app/api?username=SiveHoyo99&show_icons=true&theme=tokyonight)
 
-
-
-![SiveHoyo99](https://github-readme-stats.vercel.app/api/top-langs/?username=SiveHoyo99&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiveHoyo99&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🎯 Current Goal
-Learning Linux fundamentals and working towards task automation and deployment systems.
+Currently learning PostgreSQL and Javascript fundamentals
