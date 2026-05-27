@@ -21,9 +21,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![SiveHoyo99](https://github-readme-stats.vercel.app/api?username=SiveHoyo99&show_icons=true&theme=tokyonight)
----
 
 ## 🎯 Current Goal
 Currently learning PostgreSQL and Javascript fundamentals
