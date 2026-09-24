@@ -6,6 +6,7 @@
 
 ## 🛠️ Projects
 - **Console-based UNO card game** – This is a console-based UNO card game that allows multiple players and implements card functionality to impact the game flow.
+- **UWC-Digital-Detective** - A beginner-friendly Java console application for managing a list of investigation suspects.
 
 ---
 
